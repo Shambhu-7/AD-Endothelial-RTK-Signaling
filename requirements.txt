@@ -1,0 +1,13 @@
+# Paper 4 — recorded Python analysis dependencies
+# Versions observed in the working environment on 2026-10-29.
+# Python version: 3.14.3
+# This file records the environment; fresh-install compatibility
+# has not been independently tested.
+
+numpy==2.5.4
+pandas==2.3.3
+scipy==1.18.1
+matplotlib==3.11.2
+requests==2.34.2
+scikit-learn==1.9.1
+torch==2.15.0

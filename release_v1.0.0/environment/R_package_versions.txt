@@ -1,0 +1,14 @@
+# Paper 4 — recorded R environment
+# Versions observed in the working environment on 2026-10-29.
+# Fresh-install compatibility has not been independently tested.
+
+R: 4.5.2
+edgeR: 4.8.2
+limma: 3.66.0
+fgsea: 1.36.2
+msigdbr: 25.1.1
+dplyr: 1.2.1
+Matrix: 1.7.4
+Seurat: 5.6.0
+SeuratObject: 5.4.0
+nnet: 7.3.20
