@@ -41,3 +41,19 @@ __pycache__/
 .env.*
 *.pem
 *.key
+
+# Restricted experimental allocation and randomization files
+*RESTRICTED*
+*randomization*key*
+
+# Temporary Python files and caches
+__pycache__/
+*.py[cod]
+
+# Script backups
+*.save
+*.orig
+*~
+
+# Local reproduction-test outputs
+/release_v1.0.0/reproduction_test/

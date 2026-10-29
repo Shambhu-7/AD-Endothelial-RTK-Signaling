@@ -117,4 +117,4 @@ Release candidate v1.0.0.
 - Figure-level regeneration has been verified in the original analysis environment.
 - Full end-to-end reproduction from downloaded GEO data using only this release has not been demonstrated.
 - Independent cohort donor overlap has not been fully resolved.
-- GitHub publication, Zenodo archival, and DOI assignment remain pending.
+- GitHub publication: available in the public repository. Zenodo archival and DOI assignment remain pending.
