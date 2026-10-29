@@ -57,3 +57,7 @@ __pycache__/
 
 # Local reproduction-test outputs
 /release_v1.0.0/reproduction_test/
+
+# Local working analyses; curated release lives in release_v1.0.0/
+ /scripts/
+ /results/
