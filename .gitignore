@@ -1,0 +1,43 @@
+# Large sequencing datasets and processed objects
+data/
+
+# Python and R environments
+.venv/
+venv/
+renv/library/
+__pycache__/
+*.pyc
+.Rhistory
+.RData
+.Rproj.user/
+
+# macOS files
+.DS_Store
+._*
+.AppleDouble
+
+# Large binary files
+*.tar
+*.tar.gz
+*.rds
+*.rds.gz
+*.h5
+*.h5ad
+*.bam
+*.fastq
+*.fastq.gz
+
+# Temporary files and logs
+*.tmp
+*.log
+*.bak
+
+# Exclude legacy manuscript outputs
+/results/manuscript_final/figures/
+/results/manuscript_final/source_data/
+
+# Local credentials
+.env
+.env.*
+*.pem
+*.key

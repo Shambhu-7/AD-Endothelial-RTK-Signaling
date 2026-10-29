@@ -1,0 +1,13 @@
+label,model,NES,FDR,available,significant
+RTK,discovery_primary,1.58737964911012,0.0037701822662281,True,True
+mTORC1,discovery_primary,1.63246287128156,0.0451409606646369,True,True
+RTK,discovery_lowcell,1.58256396523681,0.0018953049167539,True,True
+mTORC1,discovery_lowcell,1.58080320939183,0.061079913005143,True,False
+RTK,discovery_composition,1.58018053794224,0.0025788983879733,True,True
+mTORC1,discovery_composition,1.50739813633991,0.0743672797290165,True,False
+RTK,validation_primary,1.56464022995073,0.0013145540091767,True,True
+mTORC1,validation_primary,2.31211997146054,5.768750350171231e-09,True,True
+RTK,validation_lowcell,1.56568677639091,0.0006041312035965,True,True
+mTORC1,validation_lowcell,2.26282064031161,3.6116217672818e-08,True,True
+RTK,validation_composition,1.55553798810259,0.0009867000772691,True,True
+mTORC1,validation_composition,2.06139063829142,8.49794264356562e-07,True,True
